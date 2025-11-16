@@ -6,8 +6,6 @@ A small Python command-line tool that:
 - Calculates **simple interest** and the **total amount to repay**
 - Calculates an **estimated monthly payment** using a standard annuity formula (with monthly compounding)
 
-> ⚠️ This project is for learning/demo purposes only and is **not** financial advice.
-
 ---
 
 ## Features
